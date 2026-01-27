@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1000&auto=format&fit=crop" alt="Neural Network Symbol" width="75%" height="250" style="object-fit: cover; border-radius: 10px;">
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1000&auto=format&fit=crop" alt="Neural Network Symbol" width="100%" height="300" style="object-fit: cover; border-radius: 10px;">
 
 <br>
 <br>
